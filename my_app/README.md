@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Flutter State Management — Assignment #1
 ### Topic: Provider State Management
 > CSE Year 3 | Flutter Development
@@ -73,4 +75,3 @@ provider: ^6.1.1
 **Jean De La Croix**  
 CSE Year 3
 
-![alt text](image.png)
